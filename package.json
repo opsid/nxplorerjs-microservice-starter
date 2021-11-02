@@ -64,7 +64,7 @@
     "node-fetch": "^2.2.0",
     "pino": "^5.4.0",
     "progress": "^2.0.0",
-    "prom-client": "^11.1.1",
+    "prom-client": "^14.0.0",
     "randexp": "^0.5.3",
     "reflect-metadata": "^0.1.12",
     "request": "^2.88.0",
